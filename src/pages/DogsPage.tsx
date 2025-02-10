@@ -74,5 +74,3 @@ const DogsPage = () => {
 };
 
 export default DogsPage;
-// acabrera@deltax.la
-// ksubieta@....
